@@ -1,1 +1,3 @@
 # lojasguru
+
+LojasGuru web app.
